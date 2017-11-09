@@ -1,3 +1,16 @@
+Sci-Fi Console Like Window Manager
+==================================
+Well I'am annoyed of the different Window Managers. 
+What I want is something futuristic, something which looks quite elegant and what does not cost that much resources.
+So what I always liked, are these consoles from most science fiction films where is just a green font with a kind
+of typewriter effect.
+So for me - as I am pretty lazy, I will just try to modify the BasicWM until it suits my needs.
+
+I will leave the description below as from the original project.
+
+As far as I have my own result, I will also update this description.
+
+
 Basic Window Manager
 ====================
 
